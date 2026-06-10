@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 마포 셔츠룸]]></title>
-  <link>https://sf-t3-1779642675702-244.pages.dev</link>
-  <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 12:41:35 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 12:41:35 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-244.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[서버 웜업]]></title>
+  <link>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-244</link>
+  <description><![CDATA[서버 웜업 - 마포 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 18:29:39 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 18:29:39 GMT</lastBuildDate>
+  <atom:link href="https://tidalhss-star.github.io/bp-sf-t3-1779642675702-244/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 마포 셔츠룸 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-244.pages.dev/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-244.pages.dev/</guid>
-      <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 12:41:35 GMT</pubDate>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-244/posts/field_note-002-nf2qs6.html</link>
+      <guid isPermaLink="true">https://tidalhss-star.github.io/bp-sf-t3-1779642675702-244/posts/field_note-002-nf2qs6.html</guid>
+      <description><![CDATA[### 제목 창작 지시포스트 유형: field_note (리뷰/가이드/비교)주제 키워드: 마포 셔츠룸당신은 페르소나(전문가)의 말투와 성격에 완벽히 부합하는 제목을 100% 독창적으로 창작해야 합니다. 기계적인 형식을 완전히 피하세요. ## 포스트 DNA afff2f3]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[마포 셔츠룸 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
+      <link>https://tidalhss-star.github.io/bp-sf-t3-1779642675702-244/posts/review-001-nf2qs6.html</link>
+      <guid isPermaLink="true">https://tidalhss-star.github.io/bp-sf-t3-1779642675702-244/posts/review-001-nf2qs6.html</guid>
+      <description><![CDATA[### 포스트 DNA d60ac989 #### 제목: 창작한 제목 | "역사 속 번역의 깊은 구멍: 에픽테토스와 현대 번역" --- 아, 진짜... 에픽테토스 엥케이리디온의 18세기 영역본과 현대 번역본 간에 발생한 결정적 오역 세 곳을 중심으로 실존주의 논쟁의 발단을]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
